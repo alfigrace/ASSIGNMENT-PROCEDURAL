@@ -1,0 +1,18 @@
+//Alfi Nazilah
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    int A,B;
+    
+    cout << "Program Parkir Sederhana \n\n";
+    cout << "Masukkan lamanya parkir : \n";
+    
+    cin >> A;
+    B = A*1000;
+    
+    cout << "Total biaya parkir adalah = " << B << "\n\n";
+    return 0;
+}
