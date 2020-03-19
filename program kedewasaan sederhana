@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    int A;
+    
+    cout << "Program Kedewasaan \n\n";
+    cout << "Masukkan umur anda = \n";
+    
+    cin >> A;
+    
+    if(A <= 5) {
+        cout << "Anak-anak \n";
+    } else if(A <= 17) {
+        cout << "Remaja \n";
+    } else {
+        cout << "Dewasa \n";
+    }
+    
+    return 0;
+}
