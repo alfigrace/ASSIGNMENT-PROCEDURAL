@@ -1,5 +1,5 @@
 # ASSIGNMENT-PROCEDURAL
-Berikut assignment untuk mata kuliah Pemrograman Prosedural daring :
+Berikut assignment membuat program sederhana C++ untuk mata kuliah Pemrograman Prosedural daring :
 
 1. Contoh program parkir sederhana(program parkir sederhana).
 2. Contoh program parkir sederhana-assignment2(program parkir sederhana_alfinazilah).
