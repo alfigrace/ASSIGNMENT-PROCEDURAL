@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    int a;
+    
+    cout << "Tarif parkir PT. @AlfiNazilah \n\n";
+    cout << "Lama parkir/jam = \n\n";
+    
+    cin >> a;
+    
+    if (a <= 5) {
+        cout << "Biaya parkir = " << a*1000 << "\n\n";
+    } else {
+        cout << "Biaya parkir = " << 5000 << "\n\n";
+    }
+    
+    return 0;
+}
